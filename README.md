@@ -15,6 +15,46 @@ Output is of image format:
 }
 ```
 
+# Usage
+
+Sample Example
+
+<img src="https://github.com/richylyq/SegFormer-FastAPI/blob/master/src/results/original.jpg" width="300" height="300">
+
+* `/solid` - Create Solid Mask
+
+<img src="https://github.com/richylyq/SegFormer-FastAPI/blob/master/src/results/solid.png" width="300" height="300">
+
+* `/semi` - Create Semi Mask
+
+<img src="https://github.com/richylyq/SegFormer-FastAPI/blob/master/src/results/semi.png" width="300" height="300">
+
+* `/get_class_names` - Get Class Names of segmentated results
+```
+[
+  "ceiling",
+  "lamp",
+  "wall",
+  "painting",
+  "light",
+  "curtain",
+  "sofa",
+  "cushion",
+  "table",
+  "blanket",
+  "clock",
+  "plate",
+  "coffee table",
+  "vase",
+  "floor",
+  "book",
+  "tray",
+  "ball",
+  "ottoman",
+  "bed "
+]
+```
+
 # Getting Started
 
 ## Prerequisites
