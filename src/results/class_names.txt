@@ -1,0 +1,22 @@
+[
+  "ceiling",
+  "lamp",
+  "wall",
+  "painting",
+  "light",
+  "curtain",
+  "sofa",
+  "cushion",
+  "table",
+  "blanket",
+  "clock",
+  "plate",
+  "coffee table",
+  "vase",
+  "floor",
+  "book",
+  "tray",
+  "ball",
+  "ottoman",
+  "bed "
+]
